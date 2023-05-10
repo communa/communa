@@ -1,5 +1,4 @@
 # Communa - Lite paper
-Documentation and description
 We are **Communa** - a web3 platform for freelancing that connects businesses with talented professionals worldwide, making remote work more convenient than ever before.
 
 - [https://communa.network/](https://communa.network/)
