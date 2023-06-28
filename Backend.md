@@ -1,7 +1,10 @@
-The purpose of this document is to outline the technical requirements for a Node.js backend application that will serve API services for client applications written in Node.js and Typescript - a widely used technologies that provides static typing, enhances code readability and making it easier to maintain and scale. 
+# Communa - Frontend
+Communa is a web3 platform for freelancing that connects businesses with talented professionals worldwide, making remote work more convenient than ever before. 
+- [https://communa.network/](https://communa.network/)
+- [https://github.com/communa](https://github.com/communa)
 
-- https://communa.network/
-- https://github.com/communa/backend
+## Intro
+The purpose of this document is to outline the technical requirements for a Node.js backend application that will serve API services for client applications written in Node.js and Typescript - a widely used technologies that provides static typing, enhances code readability and making it easier to maintain and scale. 
 
 ## Methodology
 
